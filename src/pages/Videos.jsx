@@ -6,7 +6,7 @@ export default function Videos() {
     <section>
       <div className="pageHead">
         <h2 className="title">Videos</h2>
-        <p className="subtitle">Cursos tipo plataforma (estilo Platzi) para aprender paso a paso.</p>
+        <p className="subtitle">Cursos para aprender paso a paso.</p>
       </div>
 
       <div className="grid">
